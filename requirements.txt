@@ -1,0 +1,11 @@
+urllib 
+colorama 
+requests 
+twint 
+regex 
+webbrowser
+tabulate 
+phonenumbers 
+pyfiglet
+geopy 
+urllib3 
